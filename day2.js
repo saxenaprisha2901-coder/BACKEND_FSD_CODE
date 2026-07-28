@@ -44,7 +44,7 @@ function text(){
 }
 text();
 
-Arrow Function
+//Arrow Function
 function hello()
 {
     console.log("Task 1");
