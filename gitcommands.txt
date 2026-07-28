@@ -1,0 +1,20 @@
+git commands (local repo to cloud repo):- 
+
+git status
+git init
+git add file name/ .
+git commit -m “msg”
+git remote add origin github_repo_url
+git branch -M main
+git push -u origin main
+
+git commands (cloud repo to local repo):-
+
+git clone url
+
+other git command:-
+
+git log //no. of commit
+git checkout
+
+README FILE:- shows project status
