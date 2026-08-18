@@ -48,15 +48,7 @@ async function updateFile() {
 
 
 // 4. DELETE
-async function deleteFile() {
-    try {
-        await fs.unlink(fileName);
-
-        console.log("\nFile deleted successfully");
-    } catch (error) {
-        console.log("Error:", error.message);
-    }
-}
+// 
 
 // Execute CRUD operations
 async function main() {
@@ -67,7 +59,7 @@ async function main() {
 
      await updateFile();
 
-   await deleteFile();
+   //await deleteFile();
 }
 
 main();
