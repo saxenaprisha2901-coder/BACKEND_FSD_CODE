@@ -1,0 +1,11 @@
+{
+  "name": "backend-fsd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "program 2.js",
+  "scripts": {
+    "start": "node \"2nd aug 18.js/program 2.js\""
+  },
+  "author": "",
+  "license": "ISC"
+}
