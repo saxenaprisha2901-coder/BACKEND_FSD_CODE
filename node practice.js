@@ -1,5 +1,3 @@
-
-
 console.log("\n========== 1. PROMISE BASIC ==========");
 
 function fetchData() {

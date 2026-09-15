@@ -1,0 +1,702 @@
+[
+  {
+    "id": 1,
+    "name": "Laptop 1",
+    "price": 1250,
+    "category": "Electronics",
+    "stock": 6
+  },
+  {
+    "id": 2,
+    "name": "Smartphone 2",
+    "price": 2000,
+    "category": "Accessories",
+    "stock": 7
+  },
+  {
+    "id": 3,
+    "name": "Tablet 3",
+    "price": 2750,
+    "category": "Gadgets",
+    "stock": 8
+  },
+  {
+    "id": 4,
+    "name": "Monitor 4",
+    "price": 3500,
+    "category": "Computer",
+    "stock": 9
+  },
+  {
+    "id": 5,
+    "name": "Keyboard 5",
+    "price": 4250,
+    "category": "Electronics",
+    "stock": 10
+  },
+  {
+    "id": 6,
+    "name": "Mouse 6",
+    "price": 5000,
+    "category": "Accessories",
+    "stock": 11
+  },
+  {
+    "id": 7,
+    "name": "Headphones 7",
+    "price": 5750,
+    "category": "Gadgets",
+    "stock": 12
+  },
+  {
+    "id": 8,
+    "name": "Smartwatch 8",
+    "price": 6500,
+    "category": "Computer",
+    "stock": 13
+  },
+  {
+    "id": 9,
+    "name": "Webcam 9",
+    "price": 7250,
+    "category": "Electronics",
+    "stock": 14
+  },
+  {
+    "id": 10,
+    "name": "Speaker 10",
+    "price": 8000,
+    "category": "Accessories",
+    "stock": 15
+  },
+  {
+    "id": 11,
+    "name": "Laptop 11",
+    "price": 8750,
+    "category": "Gadgets",
+    "stock": 16
+  },
+  {
+    "id": 12,
+    "name": "Smartphone 12",
+    "price": 9500,
+    "category": "Computer",
+    "stock": 17
+  },
+  {
+    "id": 13,
+    "name": "Tablet 13",
+    "price": 10250,
+    "category": "Electronics",
+    "stock": 18
+  },
+  {
+    "id": 14,
+    "name": "Monitor 14",
+    "price": 11000,
+    "category": "Accessories",
+    "stock": 19
+  },
+  {
+    "id": 15,
+    "name": "Keyboard 15",
+    "price": 11750,
+    "category": "Gadgets",
+    "stock": 20
+  },
+  {
+    "id": 16,
+    "name": "Mouse 16",
+    "price": 12500,
+    "category": "Computer",
+    "stock": 21
+  },
+  {
+    "id": 17,
+    "name": "Headphones 17",
+    "price": 13250,
+    "category": "Electronics",
+    "stock": 22
+  },
+  {
+    "id": 18,
+    "name": "Smartwatch 18",
+    "price": 14000,
+    "category": "Accessories",
+    "stock": 23
+  },
+  {
+    "id": 19,
+    "name": "Webcam 19",
+    "price": 14750,
+    "category": "Gadgets",
+    "stock": 24
+  },
+  {
+    "id": 20,
+    "name": "Speaker 20",
+    "price": 15500,
+    "category": "Computer",
+    "stock": 25
+  },
+  {
+    "id": 21,
+    "name": "Laptop 21",
+    "price": 16250,
+    "category": "Electronics",
+    "stock": 26
+  },
+  {
+    "id": 22,
+    "name": "Smartphone 22",
+    "price": 17000,
+    "category": "Accessories",
+    "stock": 27
+  },
+  {
+    "id": 23,
+    "name": "Tablet 23",
+    "price": 17750,
+    "category": "Gadgets",
+    "stock": 28
+  },
+  {
+    "id": 24,
+    "name": "Monitor 24",
+    "price": 18500,
+    "category": "Computer",
+    "stock": 29
+  },
+  {
+    "id": 25,
+    "name": "Keyboard 25",
+    "price": 19250,
+    "category": "Electronics",
+    "stock": 30
+  },
+  {
+    "id": 26,
+    "name": "Mouse 26",
+    "price": 20000,
+    "category": "Accessories",
+    "stock": 31
+  },
+  {
+    "id": 27,
+    "name": "Headphones 27",
+    "price": 20750,
+    "category": "Gadgets",
+    "stock": 32
+  },
+  {
+    "id": 28,
+    "name": "Smartwatch 28",
+    "price": 21500,
+    "category": "Computer",
+    "stock": 33
+  },
+  {
+    "id": 29,
+    "name": "Webcam 29",
+    "price": 22250,
+    "category": "Electronics",
+    "stock": 34
+  },
+  {
+    "id": 30,
+    "name": "Speaker 30",
+    "price": 23000,
+    "category": "Accessories",
+    "stock": 35
+  },
+  {
+    "id": 31,
+    "name": "Laptop 31",
+    "price": 23750,
+    "category": "Gadgets",
+    "stock": 36
+  },
+  {
+    "id": 32,
+    "name": "Smartphone 32",
+    "price": 24500,
+    "category": "Computer",
+    "stock": 37
+  },
+  {
+    "id": 33,
+    "name": "Tablet 33",
+    "price": 25250,
+    "category": "Electronics",
+    "stock": 38
+  },
+  {
+    "id": 34,
+    "name": "Monitor 34",
+    "price": 26000,
+    "category": "Accessories",
+    "stock": 39
+  },
+  {
+    "id": 35,
+    "name": "Keyboard 35",
+    "price": 26750,
+    "category": "Gadgets",
+    "stock": 40
+  },
+  {
+    "id": 36,
+    "name": "Mouse 36",
+    "price": 27500,
+    "category": "Computer",
+    "stock": 41
+  },
+  {
+    "id": 37,
+    "name": "Headphones 37",
+    "price": 28250,
+    "category": "Electronics",
+    "stock": 42
+  },
+  {
+    "id": 38,
+    "name": "Smartwatch 38",
+    "price": 29000,
+    "category": "Accessories",
+    "stock": 43
+  },
+  {
+    "id": 39,
+    "name": "Webcam 39",
+    "price": 29750,
+    "category": "Gadgets",
+    "stock": 44
+  },
+  {
+    "id": 40,
+    "name": "Speaker 40",
+    "price": 30500,
+    "category": "Computer",
+    "stock": 45
+  },
+  {
+    "id": 41,
+    "name": "Laptop 41",
+    "price": 31250,
+    "category": "Electronics",
+    "stock": 46
+  },
+  {
+    "id": 42,
+    "name": "Smartphone 42",
+    "price": 32000,
+    "category": "Accessories",
+    "stock": 47
+  },
+  {
+    "id": 43,
+    "name": "Tablet 43",
+    "price": 32750,
+    "category": "Gadgets",
+    "stock": 48
+  },
+  {
+    "id": 44,
+    "name": "Monitor 44",
+    "price": 33500,
+    "category": "Computer",
+    "stock": 49
+  },
+  {
+    "id": 45,
+    "name": "Keyboard 45",
+    "price": 34250,
+    "category": "Electronics",
+    "stock": 50
+  },
+  {
+    "id": 46,
+    "name": "Mouse 46",
+    "price": 35000,
+    "category": "Accessories",
+    "stock": 5
+  },
+  {
+    "id": 47,
+    "name": "Headphones 47",
+    "price": 35750,
+    "category": "Gadgets",
+    "stock": 6
+  },
+  {
+    "id": 48,
+    "name": "Smartwatch 48",
+    "price": 36500,
+    "category": "Computer",
+    "stock": 7
+  },
+  {
+    "id": 49,
+    "name": "Webcam 49",
+    "price": 37250,
+    "category": "Electronics",
+    "stock": 8
+  },
+  {
+    "id": 50,
+    "name": "Speaker 50",
+    "price": 38000,
+    "category": "Accessories",
+    "stock": 9
+  },
+  {
+    "id": 51,
+    "name": "Laptop 51",
+    "price": 38750,
+    "category": "Gadgets",
+    "stock": 10
+  },
+  {
+    "id": 52,
+    "name": "Smartphone 52",
+    "price": 39500,
+    "category": "Computer",
+    "stock": 11
+  },
+  {
+    "id": 53,
+    "name": "Tablet 53",
+    "price": 40250,
+    "category": "Electronics",
+    "stock": 12
+  },
+  {
+    "id": 54,
+    "name": "Monitor 54",
+    "price": 41000,
+    "category": "Accessories",
+    "stock": 13
+  },
+  {
+    "id": 55,
+    "name": "Keyboard 55",
+    "price": 41750,
+    "category": "Gadgets",
+    "stock": 14
+  },
+  {
+    "id": 56,
+    "name": "Mouse 56",
+    "price": 42500,
+    "category": "Computer",
+    "stock": 15
+  },
+  {
+    "id": 57,
+    "name": "Headphones 57",
+    "price": 43250,
+    "category": "Electronics",
+    "stock": 16
+  },
+  {
+    "id": 58,
+    "name": "Smartwatch 58",
+    "price": 44000,
+    "category": "Accessories",
+    "stock": 17
+  },
+  {
+    "id": 59,
+    "name": "Webcam 59",
+    "price": 44750,
+    "category": "Gadgets",
+    "stock": 18
+  },
+  {
+    "id": 60,
+    "name": "Speaker 60",
+    "price": 45500,
+    "category": "Computer",
+    "stock": 19
+  },
+  {
+    "id": 61,
+    "name": "Laptop 61",
+    "price": 46250,
+    "category": "Electronics",
+    "stock": 20
+  },
+  {
+    "id": 62,
+    "name": "Smartphone 62",
+    "price": 47000,
+    "category": "Accessories",
+    "stock": 21
+  },
+  {
+    "id": 63,
+    "name": "Tablet 63",
+    "price": 47750,
+    "category": "Gadgets",
+    "stock": 22
+  },
+  {
+    "id": 64,
+    "name": "Monitor 64",
+    "price": 48500,
+    "category": "Computer",
+    "stock": 23
+  },
+  {
+    "id": 65,
+    "name": "Keyboard 65",
+    "price": 49250,
+    "category": "Electronics",
+    "stock": 24
+  },
+  {
+    "id": 66,
+    "name": "Mouse 66",
+    "price": 50000,
+    "category": "Accessories",
+    "stock": 25
+  },
+  {
+    "id": 67,
+    "name": "Headphones 67",
+    "price": 50750,
+    "category": "Gadgets",
+    "stock": 26
+  },
+  {
+    "id": 68,
+    "name": "Smartwatch 68",
+    "price": 51500,
+    "category": "Computer",
+    "stock": 27
+  },
+  {
+    "id": 69,
+    "name": "Webcam 69",
+    "price": 52250,
+    "category": "Electronics",
+    "stock": 28
+  },
+  {
+    "id": 70,
+    "name": "Speaker 70",
+    "price": 53000,
+    "category": "Accessories",
+    "stock": 29
+  },
+  {
+    "id": 71,
+    "name": "Laptop 71",
+    "price": 53750,
+    "category": "Gadgets",
+    "stock": 30
+  },
+  {
+    "id": 72,
+    "name": "Smartphone 72",
+    "price": 54500,
+    "category": "Computer",
+    "stock": 31
+  },
+  {
+    "id": 73,
+    "name": "Tablet 73",
+    "price": 55250,
+    "category": "Electronics",
+    "stock": 32
+  },
+  {
+    "id": 74,
+    "name": "Monitor 74",
+    "price": 56000,
+    "category": "Accessories",
+    "stock": 33
+  },
+  {
+    "id": 75,
+    "name": "Keyboard 75",
+    "price": 56750,
+    "category": "Gadgets",
+    "stock": 34
+  },
+  {
+    "id": 76,
+    "name": "Mouse 76",
+    "price": 57500,
+    "category": "Computer",
+    "stock": 35
+  },
+  {
+    "id": 77,
+    "name": "Headphones 77",
+    "price": 58250,
+    "category": "Electronics",
+    "stock": 36
+  },
+  {
+    "id": 78,
+    "name": "Smartwatch 78",
+    "price": 59000,
+    "category": "Accessories",
+    "stock": 37
+  },
+  {
+    "id": 79,
+    "name": "Webcam 79",
+    "price": 59750,
+    "category": "Gadgets",
+    "stock": 38
+  },
+  {
+    "id": 80,
+    "name": "Speaker 80",
+    "price": 60500,
+    "category": "Computer",
+    "stock": 39
+  },
+  {
+    "id": 81,
+    "name": "Laptop 81",
+    "price": 61250,
+    "category": "Electronics",
+    "stock": 40
+  },
+  {
+    "id": 82,
+    "name": "Smartphone 82",
+    "price": 62000,
+    "category": "Accessories",
+    "stock": 41
+  },
+  {
+    "id": 83,
+    "name": "Tablet 83",
+    "price": 62750,
+    "category": "Gadgets",
+    "stock": 42
+  },
+  {
+    "id": 84,
+    "name": "Monitor 84",
+    "price": 63500,
+    "category": "Computer",
+    "stock": 43
+  },
+  {
+    "id": 85,
+    "name": "Keyboard 85",
+    "price": 64250,
+    "category": "Electronics",
+    "stock": 44
+  },
+  {
+    "id": 86,
+    "name": "Mouse 86",
+    "price": 65000,
+    "category": "Accessories",
+    "stock": 45
+  },
+  {
+    "id": 87,
+    "name": "Headphones 87",
+    "price": 65750,
+    "category": "Gadgets",
+    "stock": 46
+  },
+  {
+    "id": 88,
+    "name": "Smartwatch 88",
+    "price": 66500,
+    "category": "Computer",
+    "stock": 47
+  },
+  {
+    "id": 89,
+    "name": "Webcam 89",
+    "price": 67250,
+    "category": "Electronics",
+    "stock": 48
+  },
+  {
+    "id": 90,
+    "name": "Speaker 90",
+    "price": 68000,
+    "category": "Accessories",
+    "stock": 49
+  },
+  {
+    "id": 91,
+    "name": "Laptop 91",
+    "price": 68750,
+    "category": "Gadgets",
+    "stock": 50
+  },
+  {
+    "id": 92,
+    "name": "Smartphone 92",
+    "price": 69500,
+    "category": "Computer",
+    "stock": 5
+  },
+  {
+    "id": 93,
+    "name": "Tablet 93",
+    "price": 70250,
+    "category": "Electronics",
+    "stock": 6
+  },
+  {
+    "id": 94,
+    "name": "Monitor 94",
+    "price": 71000,
+    "category": "Accessories",
+    "stock": 7
+  },
+  {
+    "id": 95,
+    "name": "Keyboard 95",
+    "price": 71750,
+    "category": "Gadgets",
+    "stock": 8
+  },
+  {
+    "id": 96,
+    "name": "Mouse 96",
+    "price": 72500,
+    "category": "Computer",
+    "stock": 9
+  },
+  {
+    "id": 97,
+    "name": "Headphones 97",
+    "price": 73250,
+    "category": "Electronics",
+    "stock": 10
+  },
+  {
+    "id": 98,
+    "name": "Smartwatch 98",
+    "price": 74000,
+    "category": "Accessories",
+    "stock": 11
+  },
+  {
+    "id": 99,
+    "name": "Webcam 99",
+    "price": 74750,
+    "category": "Gadgets",
+    "stock": 12
+  },
+  {
+    "id": 100,
+    "name": "Speaker 100",
+    "price": 75500,
+    "category": "Computer",
+    "stock": 13
+  }
+]
