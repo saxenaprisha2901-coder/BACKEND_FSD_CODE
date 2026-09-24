@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "studentName": "Aarav Sharma",
+    "email": "aarav.sharma@abes.ac.in",
+    "category": "Hostel",
+    "description": "Room 304 water leakage in bathroom tap.",
+    "priority": "High",
+    "status": "Pending",
+    "createdAt": "2026-09-22"
+  },
+  {
+    "id": 2,
+    "studentName": "Priya Verma",
+    "email": "priya.verma@abes.ac.in",
+    "category": "IT Support",
+    "description": "Wi-Fi login credential reset request for Lab 3.",
+    "priority": "Medium",
+    "status": "In Progress",
+    "createdAt": "2026-09-22"
+  }
+]
